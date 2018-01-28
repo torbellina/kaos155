@@ -12,8 +12,8 @@
 -----
 
 Es una herramienta de software libre bajo los terminos de la licencia GPL 3. (ver archivo [LICENSE](https://github.com/Ingobernable/kaos155/blob/master/LICENSE) para más detalles).
-La herramienta fue desarrollada originalmente por Ricardo y Ana Torbellino y liberada como software libre tras el hackmeeting del 12 de Octubre del 2017 realizado en Madrid.
-Actualmente Ricardo y Ana Torbellino siguen trabajando Kaos155 como software libre bajo los terminos de la licencia GPL 3 y junto a ellos más gente que se suma a colaborar con el desarrollo.
+La herramienta fue desarrollada originalmente por Ricardo y Ana y liberada como software libre tras el hackmeeting del 12 de Octubre del 2017 realizado en Madrid.
+Actualmente se sigue trabajando Kaos155 como software libre bajo los terminos de la licencia GPL 3 y junto a ellos más gente que se suma a colaborar con el desarrollo.
 
 ## Formas de contactar
 
