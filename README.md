@@ -12,10 +12,9 @@ De forma presencial nos reunimos cada x tiempo en el centro social de comunes ur
 Las reuniones presenciales son un buen momento para conocernos fisicamente y seguir trabajando.
 La Ingobernable es un centro social que se encuentra en Madrid, en la calle Gobernador 39.
 
-### Unirse a la lista de correo
+### Si quieres unirte al grupo  
 
-Puedes subscribirte a la lista de correo ( kaos@listas.ingobernable.net ) desde aquí: 
-https://listas.ingobernable.net/cgi-bin/mailman/listinfo/kaos
+Envía un correo a kaos155@protonmail.com
 
 
 ## Instalación en GNU/Linux
